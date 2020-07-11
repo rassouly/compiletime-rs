@@ -1,5 +1,7 @@
 # Get the time at compile-time!
 
+Currently required nightly Rust due to [rust#54727](https://github.com/rust-lang/rust/issues/54727)
+
 Example: 
 ```rs
 fn main() {
