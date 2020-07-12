@@ -1,10 +1,10 @@
 [package]
 name = "compiletime"
 description = "Get the time at compile-time."
-version = "1.1.0"
+version = "1.0.0"
 authors = ["aspen <luxx4x@protonmail.com>"]
 edition = "2018"
-license-file = "LICENSE"
+license = "Zlib"
 keywords = ["time", "proc-macro"]
 repository = "https://github.com/luxxxxy/compiletime-rs"
 readme = "README.md"
